@@ -1,0 +1,60 @@
+﻿.composition {
+    width: 800px;
+    height: 400px;
+    z-index: 1;
+    position: relative;
+    background: url(8.jpg);
+}
+
+.ima {
+    position: absolute;
+}
+
+.ima1 {
+    top: 30px;
+    right: 450px;
+    z-index: 1;
+    position: absolute;
+}
+
+.ima2 {
+    top: 70px;
+    left: 100px;
+    z-index: 2;
+    position: absolute;
+}
+
+.ima3 {
+    top: 140px;
+    right: 400px;
+    z-index: 3;
+    position: absolute;
+}
+
+.ima4 {
+    top: 120px;
+    left: 200px;
+    z-index: 2;
+    position: absolute;
+}
+
+.ima5 {
+    bottom: 0;
+    left: 650px;
+    z-index: 4;
+    position: absolute;
+}
+
+.ima6 {
+    bottom: 20px;
+    left: 150px;
+    z-index: 3;
+    position: absolute;
+}
+
+.ima7 {
+    top: 50px;
+    right: 150px;
+    z-index: 3;
+    position: absolute;
+}
